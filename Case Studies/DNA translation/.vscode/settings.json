@@ -1,0 +1,7 @@
+{
+    "workbench.colorCustomizations": {
+        "terminal.background": "#12041f",
+        "terminal.foreground": "#fac06a"
+    },
+    "python.pythonPath": "/opt/anaconda3/bin/python"
+}
