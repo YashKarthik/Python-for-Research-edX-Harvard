@@ -1,2 +1,2 @@
 # Course-Python-for-research
-edX course: Python for research by Harvard, homework
+Homework for edX course: Python for research by Harvard: 
