@@ -6,3 +6,4 @@ with the original file.
 ### Source for DNA sequence:
 DNA sequence and protein sequence files are dowloaded from NCBI site: https://www.ncbi.nlm.nih.gov/nuccore/256418990/
 #### NCBI reference sequence: NM_207618.2
+Also check the CDS number of the DNA sequence you download.
