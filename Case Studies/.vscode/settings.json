@@ -1,7 +1,15 @@
 {
     "workbench.colorCustomizations": {
         "terminal.background": "#12041f",
-        "terminal.foreground": "#fac06a"
+        "terminal.foreground": "#fac06a",
+        "editorLineNumber.foreground": "#8807f1be",
+        "editor.selectionBackground": "#4b00a1",
+        "editor.selectionHighlightBackground": "#7700ff",
+        "editorCursor.background": "#5222a0",
+        "editorCursor.foreground": "#fcc03e",
+        "editor.foreground": "#ffb452",
+        "editor.background": "#000000",
+        "editorIndentGuide.activeBackground": "#7b29ff"
     },
     "python.pythonPath": "/opt/anaconda3/bin/python"
 }
